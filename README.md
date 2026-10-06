@@ -3,7 +3,7 @@
 A reverb + delay effect pedal for the Daisy Seed 3, written in Rust. Scaffolding only for now — no DSP or firmware logic yet.
 
 - **[CONTEXT.md](CONTEXT.md)** — goal, pedal glossary, and recorded decisions
-- **[REJECTED.md](REJECTED.md)** — closed doors (empty for now)
+- **[REJECTED.md](REJECTED.md)** — closed doors
 
 ## Workspace
 
